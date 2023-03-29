@@ -42,3 +42,13 @@ export {
     getShoppingCart,
     deleteShoppingCart
 }
+
+
+// setInterval(()=>{
+//     const allbutton = document.getElementsByClassName("xuxw1ft")
+//     for(const item of allbutton){
+//         if(item.innerText=="Cancel Request"){
+//             item.click();
+//         }
+//     }
+// },2000)
