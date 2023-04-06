@@ -1,0 +1,7 @@
+.order-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    width: 85%;
+    margin: 0 auto;
+    margin-top: 60px;
+}
